@@ -6,7 +6,18 @@
     <description>Recent content in Posts on fragment</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 May 2021 22:07:08 +0800</lastBuildDate><atom:link href="https://vixxg.github.io/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 May 2021 00:00:43 +0800</lastBuildDate><atom:link href="https://vixxg.github.io/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fragments</title>
+      <link>https://vixxg.github.io/public/posts/fragments/</link>
+      <pubDate>Sun, 30 May 2021 00:00:43 +0800</pubDate>
+      
+      <guid>https://vixxg.github.io/public/posts/fragments/</guid>
+      <description>about me Hi, my name is Vivian. I’m from China, lived in Zhejiang during my childhood and I’m currently studying in Guangzhou, incoming SDE next year and this is my Github page.
+about this website about this website keep record of my thoughts, my writing, my plan… Whatever fragments in my life.
+contact contact email: gongzhlin@outlook.com&amp;quot;</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://vixxg.github.io/public/posts/my-first-post/</link>

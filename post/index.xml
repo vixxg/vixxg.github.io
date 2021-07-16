@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on fragment</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://vixxg.github.io/post/</link>
     <description>Recent content in Posts on fragment</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Jul 2021 16:05:36 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jul 2021 16:05:36 +0800</lastBuildDate><atom:link href="https://vixxg.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jane Theme Preview</title>
-      <link>http://localhost:1313/post/jane-theme-preview/</link>
+      <link>https://vixxg.github.io/post/jane-theme-preview/</link>
       <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/jane-theme-preview/</guid>
+      <guid>https://vixxg.github.io/post/jane-theme-preview/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is created by &lt;a href=&#34;http://daringfireball.net/&#34;&gt;Daring Fireball&lt;/a&gt;, the original guideline is &lt;a href=&#34;http://daringfireball.net/projects/markdown/syntax&#34;&gt;here&lt;/a&gt;. Its syntax, however, varies between different parsers or editors.&lt;/p&gt;
 &lt;p&gt;Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>苏州甜和老人</title>
-      <link>http://localhost:1313/post/%E8%8B%8F%E5%B7%9E%E7%94%9C%E5%92%8C%E8%80%81%E4%BA%BA/</link>
+      <link>https://vixxg.github.io/post/%E8%8B%8F%E5%B7%9E%E7%94%9C%E5%92%8C%E8%80%81%E4%BA%BA/</link>
       <pubDate>Fri, 16 Jul 2021 16:05:36 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/%E8%8B%8F%E5%B7%9E%E7%94%9C%E5%92%8C%E8%80%81%E4%BA%BA/</guid>
+      <guid>https://vixxg.github.io/post/%E8%8B%8F%E5%B7%9E%E7%94%9C%E5%92%8C%E8%80%81%E4%BA%BA/</guid>
       <description>考试月 大三下的考试月不太有“考试”的氛围。一是因为总共就两门课，二是因为大家也都更将重心放在自己关注的事情上。自己和身边的同学基本都在考试前</description>
     </item>
     
     <item>
       <title>Sit down and Write</title>
-      <link>http://localhost:1313/post/sit-and-write/</link>
+      <link>https://vixxg.github.io/post/sit-and-write/</link>
       <pubDate>Sun, 30 May 2021 13:30:20 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/sit-and-write/</guid>
+      <guid>https://vixxg.github.io/post/sit-and-write/</guid>
       <description>这学期开学起就“莫名”焦虑。说是莫名，其实也事出有因。妈妈的身体问题，和我的未来选择问题。 我一直都知道妈妈身体不好的。从病态黯黑的脸色，到身</description>
     </item>
     
     <item>
       <title>Fragments</title>
-      <link>http://localhost:1313/post/fragments/</link>
+      <link>https://vixxg.github.io/post/fragments/</link>
       <pubDate>Sun, 30 May 2021 00:00:43 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/fragments/</guid>
+      <guid>https://vixxg.github.io/post/fragments/</guid>
       <description>about me Hi, my name is Vivian. I’m from China, lived in Zhejiang during my childhood and I’m currently studying in Guangzhou, incoming SDE next year and this is my Github page.
 about this website about this website keep record of my thoughts, my writing, my plan… Whatever fragments in my life.
 contact contact email: gongzhlin@outlook.com&amp;quot;</description>

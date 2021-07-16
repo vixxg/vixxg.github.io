@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on fragment</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://vixxg.github.io/tags/</link>
     <description>Recent content in Tags on fragment</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Jul 2021 16:05:36 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jul 2021 16:05:36 +0800</lastBuildDate><atom:link href="https://vixxg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>sketch</title>
-      <link>http://localhost:1313/tags/sketch/</link>
+      <link>https://vixxg.github.io/tags/sketch/</link>
       <pubDate>Fri, 16 Jul 2021 16:05:36 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/sketch/</guid>
+      <guid>https://vixxg.github.io/tags/sketch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Suzhou</title>
-      <link>http://localhost:1313/tags/suzhou/</link>
+      <link>https://vixxg.github.io/tags/suzhou/</link>
       <pubDate>Fri, 16 Jul 2021 16:05:36 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/suzhou/</guid>
+      <guid>https://vixxg.github.io/tags/suzhou/</guid>
       <description></description>
     </item>
     
     <item>
       <title>uni</title>
-      <link>http://localhost:1313/tags/uni/</link>
+      <link>https://vixxg.github.io/tags/uni/</link>
       <pubDate>Fri, 16 Jul 2021 16:05:36 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/uni/</guid>
+      <guid>https://vixxg.github.io/tags/uni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>preview</title>
-      <link>http://localhost:1313/tags/preview/</link>
+      <link>https://vixxg.github.io/tags/preview/</link>
       <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/preview/</guid>
+      <guid>https://vixxg.github.io/tags/preview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>http://localhost:1313/tags/shortcodes/</link>
+      <link>https://vixxg.github.io/tags/shortcodes/</link>
       <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/shortcodes/</guid>
+      <guid>https://vixxg.github.io/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag-6</title>
-      <link>http://localhost:1313/tags/tag-6/</link>
+      <link>https://vixxg.github.io/tags/tag-6/</link>
       <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/tag-6/</guid>
+      <guid>https://vixxg.github.io/tags/tag-6/</guid>
       <description></description>
     </item>
     
